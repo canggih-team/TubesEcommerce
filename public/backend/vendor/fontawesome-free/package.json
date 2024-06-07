@@ -25,8 +25,8 @@
   "_where": "/Users/DANGER_DAVID/Sites/startbootstrap-sb-admin-2",
   "author": {
     "name": "Dave Gandy",
-    "email": "dave@fontawesome.com",
-    "url": "http://twitter.com/davegandy"
+    "email": "firmanbayu80@gmail.com",
+    "url": "http://twitter.com/firmanbayu"
   },
   "bugs": {
     "url": "http://github.com/FortAwesome/Font-Awesome/issues"
@@ -34,24 +34,16 @@
   "bundleDependencies": false,
   "contributors": [
     {
-      "name": "Brian Talbot",
-      "url": "http://twitter.com/talbs"
+      "name": "Firman Bayu"
     },
     {
-      "name": "Travis Chase",
-      "url": "http://twitter.com/supercodepoet"
+      "name": "Zulfa Azka"
     },
     {
-      "name": "Rob Madole",
-      "url": "http://twitter.com/robmadole"
+      "name": "Canggih Dedi"
     },
     {
-      "name": "Geremia Taglialatela",
-      "url": "http://twitter.com/gtagliala"
-    },
-    {
-      "name": "Mike Wilkerson",
-      "url": "http://twitter.com/mw77"
+      "name": "Shaquille Rayhannizam"
     }
   ],
   "dependencies": {},
